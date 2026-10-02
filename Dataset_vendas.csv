@@ -1,0 +1,304 @@
+﻿Pedido_ID,Cliente_Nome,Produto,Marca,Preço(R$),Desconto(%),Quantidade,Marketplace,Forma_Pagamento,Status_Pedido,Data_Compra,CEP_Entrega,Avaliação_Cliente,Comentário
+13692,Rafael Mendes,Headset Surround,HyperX,1269.68,0,1,Kabum,Pix,Confirmado,2025-02-07,64533-527,5.0,
+84885,Lucas Ferreira,Mousepad Extra Grande,Redragon,1051.85,15,2,Submarino,Boleto,Entregue,2025-02-06,78408-505,5.0,Produto incrível!
+11540,Lucas Ferreira,Teclado Mecânico,HyperX,909.0,0,3,Amazon,Pix,Cancelado,2025-02-06,15716-571,5.0,
+19751,Fernando Costa,Controle sem fio,Razer,1012.07,15,1,Submarino,Pix,Confirmado,2025-02-20,26612-494,,Produto incrível!
+33493,Lucas Ferreira,Mouse Gamer RGB,Redragon,991.8,20,1,Submarino,Pix,Cancelado,2025-02-17,12947-705,3.0,Produto incrível!
+68131,Rafael Mendes,Controle sem fio,Corsair,466.16,15,2,Submarino,Boleto,Confirmado,2025-01-25,15952-563,5.0,
+39194,Lucas Ferreira,Cadeira Gamer,Corsair,126.05,15,2,Magazine Luiza,Pix,Confirmado,2025-02-17,84188-530,,Atraso na entrega.
+12311,Ana Beatriz,Mousepad Extra Grande,ASUS,868.8,10,3,Shoppe,Boleto,Enviado,2025-01-29,54505-353,3.0,Produto incrível!
+26716,Lucas Ferreira,Headset Surround,Razer,1105.47,10,1,Magazine Luiza,Cartão de Crédito,Confirmado,2025-02-22,39485-519,,Atraso na entrega.
+97104,Bruna Silva,Teclado Mecânico,SteelSeries,1046.68,20,1,Amazon,Cartão de Crédito,Entregue,2025-01-27,79624-533,3.0,Ótima qualidade!
+12410,Bruna Silva,Headset Surround,Logitech,1155.43,0,3,Kabum,Paypal,Enviado,2025-02-12,60973-896,5.0,
+81482,Fernando Costa,Cadeira Gamer,ASUS,124.41,10,2,Shoppe,Boleto,Cancelado,2025-02-14,89649-989,,Atraso na entrega.
+95472,Lucas Ferreira,Monitor 144Hz,Corsair,581.49,10,3,Submarino,Paypal,Enviado,2025-01-27,39884-583,5.0,
+83169,Fernando Costa,Mouse Gamer RGB,SteelSeries,1137.77,0,1,Submarino,Paypal,Cancelado,2025-02-19,41338-251,5.0,Produto incrível!
+57977,Bruna Silva,Monitor 144Hz,Redragon,1295.77,20,3,Amazon,Boleto,Confirmado,2025-01-31,45288-540,5.0,Ótima qualidade!
+41462,Carlos Eduardo,Monitor 144Hz,HyperX,923.05,15,1,Amazon,Paypal,Confirmado,2025-02-09,23919-245,4.0,Produto incrível!
+52193,Fernando Costa,Mousepad Extra Grande,Redragon,382.2,15,3,Kabum,Paypal,Cancelado,2025-01-30,64371-609,,Produto incrível!
+35676,Fernando Costa,Headset Surround,Razer,621.38,20,2,Submarino,Pix,Confirmado,2025-02-07,48632-592,4.0,Atraso na entrega.
+42728,Lucas Ferreira,Mouse Gamer RGB,HyperX,520.43,20,2,Amazon,Paypal,Enviado,2025-02-19,13326-725,5.0,Ótima qualidade!
+10742,Ana Beatriz,Cadeira Gamer,Logitech,419.65,10,3,Amazon,Boleto,Cancelado,2025-01-26,90501-357,3.0,Atraso na entrega.
+68892,Ana Beatriz,Mouse Gamer RGB,Logitech,1120.06,20,3,Shoppe,Paypal,Enviado,2025-01-30,96861-180,4.0,Produto incrível!
+88613,Lucas Ferreira,Headset Surround,Corsair,1246.14,10,2,Shoppe,Boleto,Cancelado,2025-02-02,27757-360,4.0,Ótima qualidade!
+85718,Carlos Eduardo,Controle sem fio,Logitech,831.86,5,2,Magazine Luiza,Pix,Enviado,2025-02-20,95614-314,3.0,Ótima qualidade!
+97142,Rafael Mendes,Monitor 144Hz,Logitech,1420.98,15,3,Magazine Luiza,Boleto,Enviado,2025-02-12,32176-971,,Atraso na entrega.
+41799,Juliana Souza,Webcam Full HD,Razer,694.58,10,2,Kabum,Boleto,Cancelado,2025-02-04,54254-405,3.0,
+54538,Juliana Souza,Controle sem fio,Logitech,1426.01,0,3,Magazine Luiza,Cartão de Crédito,Cancelado,2025-01-27,20867-377,5.0,Produto incrível!
+40621,Juliana Souza,Webcam Full HD,SteelSeries,351.7,0,1,Magazine Luiza,Pix,Entregue,2025-01-28,45055-153,,Produto incrível!
+96790,Carlos Eduardo,Teclado Mecânico,Corsair,1117.44,0,3,Magazine Luiza,Boleto,Enviado,2025-02-15,41170-145,5.0,Produto incrível!
+43900,Lucas Ferreira,Teclado Mecânico,Razer,1169.41,0,1,Amazon,Pix,Confirmado,2025-01-29,47880-411,5.0,Produto incrível!
+41704,Fernando Costa,Cadeira Gamer,HyperX,1278.48,0,2,Shoppe,Cartão de Crédito,Enviado,2025-02-10,40454-279,3.0,Ótima qualidade!
+75935,Bruna Silva,Headset Surround,Redragon,262.04,20,3,Magazine Luiza,Paypal,Enviado,2025-02-18,82615-630,5.0,Atraso na entrega.
+15437,Juliana Souza,Mouse Gamer RGB,Logitech,178.29,0,3,Mercado Livre,Paypal,Entregue,2025-01-25,17817-584,5.0,Produto incrível!
+25445,Rafael Mendes,Cadeira Gamer,Redragon,961.47,10,1,AliExpress,Paypal,Entregue,2025-02-15,32916-301,5.0,Ótima qualidade!
+37064,Rafael Mendes,Headset Surround,Redragon,1159.91,10,1,Submarino,Cartão de Crédito,Confirmado,2025-02-04,45344-631,4.0,Produto incrível!
+14319,Rafael Mendes,Mouse Gamer RGB,ASUS,1407.08,10,2,Submarino,Cartão de Crédito,Enviado,2025-02-13,10504-359,3.0,
+57613,Carlos Eduardo,Webcam Full HD,ASUS,317.3,15,3,Submarino,Paypal,Entregue,2025-01-25,70691-803,4.0,Ótima qualidade!
+26090,Fernando Costa,Headset Surround,Elgato,200.67,10,3,Kabum,Boleto,Entregue,2025-02-01,29686-616,4.0,Ótima qualidade!
+97846,Ana Beatriz,Mousepad Extra Grande,Corsair,399.9,20,2,Mercado Livre,Cartão de Crédito,Cancelado,2025-01-30,30537-907,4.0,Ótima qualidade!
+51138,Lucas Ferreira,Mouse Gamer RGB,Razer,1294.61,10,3,Submarino,Boleto,Confirmado,2025-02-22,54922-409,5.0,
+36702,Mateus Lima,Monitor 144Hz,HyperX,484.45,0,3,Submarino,Boleto,Entregue,2025-01-30,55599-109,5.0,Atraso na entrega.
+91113,Ana Beatriz,Mouse Gamer RGB,Razer,507.15,15,1,Amazon,Pix,Cancelado,2025-02-05,59454-694,4.0,Atraso na entrega.
+66277,Rafael Mendes,Cadeira Gamer,HyperX,1303.74,15,3,AliExpress,Cartão de Crédito,Confirmado,2025-02-08,70469-825,5.0,
+92774,Mateus Lima,Teclado Mecânico,Redragon,1298.5,15,3,Kabum,Pix,Enviado,2025-01-31,74738-345,5.0,
+12117,Rafael Mendes,Cadeira Gamer,Razer,980.09,10,1,Magazine Luiza,Paypal,Confirmado,2025-01-31,18919-476,5.0,Produto incrível!
+89376,Carlos Eduardo,Mousepad Extra Grande,Corsair,1233.0,20,1,Magazine Luiza,Cartão de Crédito,Enviado,2025-02-22,57496-176,3.0,Produto incrível!
+76731,Mateus Lima,Teclado Mecânico,Elgato,302.67,15,3,Mercado Livre,Cartão de Crédito,Entregue,2025-01-27,31296-615,4.0,
+65698,Fernando Costa,Mousepad Extra Grande,SteelSeries,1429.05,20,1,Shoppe,Cartão de Crédito,Confirmado,2025-01-29,44557-651,3.0,
+14939,Ana Beatriz,Mouse Gamer RGB,Elgato,1414.64,0,2,Mercado Livre,Paypal,Cancelado,2025-01-29,39476-363,5.0,
+53294,Bruna Silva,Controle sem fio,Redragon,984.19,5,2,AliExpress,Cartão de Crédito,Enviado,2025-02-17,50500-524,5.0,Ótima qualidade!
+99339,Bruna Silva,Mouse Gamer RGB,HyperX,479.86,5,3,AliExpress,Paypal,Enviado,2025-01-26,75322-747,4.0,
+19206,Juliana Souza,Headset Surround,HyperX,1068.32,20,3,Kabum,Cartão de Crédito,Entregue,2025-02-13,72302-139,3.0,
+54778,Rafael Mendes,Cadeira Gamer,Elgato,1336.45,0,2,Shoppe,Pix,Cancelado,2025-02-02,91831-135,,Ótima qualidade!
+23164,Bruna Silva,Headset Surround,HyperX,261.07,15,1,Shoppe,Pix,Cancelado,2025-02-09,73392-479,3.0,
+19411,Carlos Eduardo,Headset Surround,SteelSeries,330.85,0,1,Pichau,Boleto,Enviado,2025-02-06,17191-734,,Ótima qualidade!
+74247,Lucas Ferreira,Webcam Full HD,EVGA,434.51,5,1,Submarino,Boleto,Enviado,2025-01-29,79993-274,5.0,
+60845,Bruna Silva,Headset Surround,Razer,720.82,20,2,Pichau,Paypal,Entregue,2025-02-13,95207-337,3.0,Atendeu minhas expectativas!
+55448,Carlos Eduardo,Teclado Mecânico,ASUS,379.85,0,1,Amazon,Paypal,Entregue,2025-02-15,55807-831,3.0,Atendeu minhas expectativas!
+85587,Ana Beatriz,Monitor 144Hz,AOC,344.51,20,3,Amazon,Pix,Cancelado,2025-02-17,82048-441,,Atraso na entrega.
+80040,Bruna Silva,Headset Surround,HyperX,1363.71,15,1,Magazine Luiza,Cartão de Crédito,Enviado,2025-02-05,87453-171,4.0,
+90622,Ana Beatriz,Controle sem fio,EVGA,1252.06,15,1,Submarino,Paypal,Cancelado,2025-01-26,80395-241,5.0,Ótima qualidade!
+72913,Bruna Silva,Controle sem fio,EVGA,729.77,10,3,AliExpress,Boleto,Cancelado,2025-02-04,30755-388,,
+52575,Juliana Souza,Mousepad Extra Grande,Corsair,1251.59,5,2,Magazine Luiza,Pix,Confirmado,2025-02-14,30309-791,,Ótima qualidade!
+66234,Mateus Lima,Teclado Mecânico,HyperX,956.64,10,3,Magazine Luiza,Cartão de Crédito,Confirmado,2025-02-12,68697-970,4.0,Ótima qualidade!
+86856,Rafael Mendes,Monitor 144Hz,ASUS,1309.34,0,2,Mercado Livre,Cartão de Crédito,Cancelado,2025-02-10,80758-618,3.0,Ótima qualidade!
+35751,Juliana Souza,Teclado Mecânico,SteelSeries,1147.93,15,3,Submarino,Boleto,Entregue,2025-02-04,94441-877,5.0,Ótima qualidade!
+45746,Fernando Costa,Mouse Gamer RGB,HyperX,908.62,10,1,Shoppe,Paypal,Enviado,2025-02-15,86695-442,,
+38871,Ana Beatriz,Controle sem fio,Logitech,1166.05,20,2,Amazon,Boleto,Enviado,2025-02-20,76860-187,,Atraso na entrega.
+65115,Gabriel Martins,Webcam Full HD,ASUS,569.41,0,1,Amazon,Boleto,Entregue,2025-02-09,66445-420,4.0,
+10136,Bruna Silva,Headset Surround,Elgato,1444.61,15,3,Pichau,Cartão de Crédito,Enviado,2025-01-28,78597-650,3.0,Atendeu minhas expectativas!
+95569,Rafael Mendes,Fonte 750W,Razer,376.0,20,1,AliExpress,Paypal,Entregue,2025-02-16,76970-702,5.0,Atraso na entrega.
+51830,Bruna Silva,Monitor 144Hz,Redragon,927.65,20,3,Kabum,Cartão de Crédito,Cancelado,2025-02-05,21124-112,3.0,Produto incrível!
+77167,Bruna Silva,Webcam Full HD,Elgato,590.53,15,2,Kabum,Boleto,Cancelado,2025-02-19,91020-618,4.0,Ótima qualidade!
+96821,Carlos Eduardo,Cadeira Gamer,Corsair,675.62,15,2,AliExpress,Paypal,Confirmado,2025-02-19,70000-197,3.0,Atendeu minhas expectativas!
+65680,Mateus Lima,Gabinete RGB,Razer,537.33,10,2,AliExpress,Boleto,Confirmado,2025-02-10,62628-733,,
+99884,Gabriel Martins,Gabinete RGB,SteelSeries,359.8,0,1,Amazon,Cartão de Crédito,Cancelado,2025-02-20,99569-107,,Ótima qualidade!
+84972,Rafael Mendes,Mousepad Extra Grande,Elgato,147.33,0,3,Magazine Luiza,Cartão de Crédito,Cancelado,2025-02-03,51360-314,,Ótima qualidade!
+98704,Ana Beatriz,Webcam Full HD,Corsair,835.06,20,2,Shoppe,Paypal,Enviado,2025-02-01,45818-985,3.0,Atraso na entrega.
+27093,Bruna Silva,Mouse Gamer RGB,ASUS,154.53,10,1,Amazon,Pix,Enviado,2025-02-03,17415-195,4.0,Atendeu minhas expectativas!
+12713,Carlos Eduardo,Monitor 144Hz,Razer,402.24,10,3,Mercado Livre,Paypal,Confirmado,2025-01-30,89790-688,4.0,
+40908,Gabriel Martins,Mouse Gamer RGB,Redragon,702.45,20,3,Mercado Livre,Pix,Confirmado,2025-01-26,68195-896,,Atraso na entrega.
+41085,Rafael Mendes,Fonte 750W,Elgato,585.53,5,3,Amazon,Cartão de Crédito,Confirmado,2025-02-02,47783-947,5.0,Atendeu minhas expectativas!
+59762,Ana Beatriz,Mouse Gamer RGB,EVGA,394.69,15,3,Submarino,Paypal,Confirmado,2025-02-15,38307-622,5.0,Atendeu minhas expectativas!
+35450,Fernando Costa,Teclado Mecânico,Elgato,509.54,5,2,Magazine Luiza,Cartão de Crédito,Enviado,2025-02-03,38259-739,,
+59990,Fernando Costa,Cadeira Gamer,Razer,1244.0,20,1,Mercado Livre,Boleto,Cancelado,2025-01-28,34102-433,5.0,Ótima qualidade!
+68528,Fernando Costa,Headset Surround,Elgato,1301.66,15,3,Shoppe,Pix,Entregue,2025-02-05,26599-940,,
+82511,Isabela Andrade,Controle sem fio,AOC,1223.44,15,2,Magazine Luiza,Paypal,Enviado,2025-02-05,36495-731,4.0,Atraso na entrega.
+61497,Bruna Silva,Cadeira Gamer,Razer,1224.37,20,1,Shoppe,Boleto,Cancelado,2025-01-29,32617-332,3.0,Atraso na entrega.
+96296,Bruna Silva,Teclado Mecânico,Corsair,695.88,0,3,AliExpress,Pix,Confirmado,2025-02-02,50589-554,4.0,Atraso na entrega.
+22148,Ana Beatriz,Fonte 750W,HyperX,471.85,20,3,Pichau,Pix,Entregue,2025-02-14,76955-879,5.0,
+53510,Fernando Costa,Mouse Gamer RGB,Logitech,716.97,5,2,Magazine Luiza,Cartão de Crédito,Confirmado,2025-02-22,19857-441,4.0,Ótima qualidade!
+98840,Mateus Lima,Webcam Full HD,AOC,846.9,20,3,Amazon,Cartão de Crédito,Entregue,2025-02-15,42561-554,5.0,Produto incrível!
+55274,Carlos Eduardo,Teclado Mecânico,Redragon,802.49,15,1,Amazon,Pix,Cancelado,2025-02-08,49142-955,,Produto incrível!
+59883,Juliana Souza,Headset Surround,Logitech,1397.03,0,2,Kabum,Boleto,Enviado,2025-02-14,29566-723,4.0,Atraso na entrega.
+52160,Carlos Eduardo,Gabinete RGB,Redragon,1358.9,20,1,Mercado Livre,Pix,Entregue,2025-02-17,95702-796,,Atendeu minhas expectativas!
+24752,Isabela Andrade,Mousepad Extra Grande,Elgato,670.39,20,2,Submarino,Pix,Entregue,2025-02-08,92934-833,4.0,Atendeu minhas expectativas!
+15356,Fernando Costa,Controle sem fio,Redragon,1412.69,15,2,AliExpress,Cartão de Crédito,Entregue,2025-02-11,82701-704,4.0,Atraso na entrega.
+52178,Lucas Ferreira,Gabinete RGB,Razer,1476.24,15,1,Shoppe,Paypal,Confirmado,2025-02-18,96783-833,3.0,Atendeu minhas expectativas!
+48133,Mateus Lima,Monitor 144Hz,AOC,565.56,15,1,Submarino,Boleto,Entregue,2025-02-10,29849-389,5.0,Atraso na entrega.
+21717,Carlos Eduardo,Webcam Full HD,Corsair,896.45,20,3,Mercado Livre,Pix,Enviado,2025-01-27,79446-499,,Ótima qualidade!
+55070,Ana Beatriz,Gabinete RGB,ASUS,1341.8,20,2,Amazon,Cartão de Crédito,Confirmado,2025-02-14,18665-743,3.0,Ótima qualidade!
+42153,Bruna Silva,Headset Surround,SteelSeries,519.48,15,2,Submarino,Cartão de Crédito,Cancelado,2025-02-10,83277-256,3.0,Produto incrível!
+53884,Fernando Costa,Monitor 144Hz,AOC,1132.63,0,1,Shoppe,Cartão de Crédito,Confirmado,2025-02-17,52169-549,3.0,Ótima qualidade!
+28474,Fernando Costa,Cadeira Gamer,AOC,1490.48,20,3,Amazon,Paypal,Cancelado,2025-02-05,94643-552,4.0,Atendeu minhas expectativas!
+92047,Rafael Mendes,Controle sem fio,Razer,983.88,10,2,Amazon,Pix,Confirmado,2025-01-29,78691-320,4.0,Ótima qualidade!
+23987,Gabriel Martins,Monitor 144Hz,HyperX,1406.53,0,2,AliExpress,Boleto,Cancelado,2025-02-16,48875-731,,Ótima qualidade!
+80363,Gabriel Martins,Teclado Mecânico,HyperX,1224.79,15,1,Shoppe,Cartão de Crédito,Enviado,2025-02-14,77670-162,4.0,Ótima qualidade!
+47411,Bruna Silva,Controle sem fio,AOC,456.18,0,3,Shoppe,Paypal,Enviado,2025-02-18,62933-914,5.0,Atraso na entrega.
+96212,Ana Beatriz,Webcam Full HD,AOC,1323.79,10,2,AliExpress,Boleto,Cancelado,2025-02-08,19683-375,3.0,Produto incrível!
+64296,Juliana Souza,Controle sem fio,Redragon,683.48,0,2,Kabum,Cartão de Crédito,Entregue,2025-02-03,99655-178,5.0,Produto incrível!
+21544,Juliana Souza,Webcam Full HD,Redragon,777.5,20,1,AliExpress,Paypal,Cancelado,2025-02-01,85963-420,4.0,Produto incrível!
+29920,Ana Beatriz,Mousepad Extra Grande,Redragon,624.66,10,3,Submarino,Pix,Enviado,2025-02-07,48229-622,3.0,Atraso na entrega.
+81156,Juliana Souza,Headset Surround,SteelSeries,511.7,20,2,Magazine Luiza,Pix,Entregue,2025-02-20,33545-210,3.0,Ótima qualidade!
+80991,Rafael Mendes,Teclado Mecânico,AOC,784.28,0,3,AliExpress,Paypal,Confirmado,2025-01-27,64949-160,4.0,Atendeu minhas expectativas!
+76532,Rafael Mendes,Controle sem fio,Redragon,596.6,0,3,AliExpress,Cartão de Crédito,Enviado,2025-02-22,95491-526,4.0,Atendeu minhas expectativas!
+61563,Carlos Eduardo,Mouse Gamer RGB,AOC,756.55,15,3,Mercado Livre,Boleto,Cancelado,2025-01-30,42758-618,5.0,Atraso na entrega.
+12164,Bruna Silva,Teclado Mecânico,ASUS,152.68,0,3,Mercado Livre,Cartão de Crédito,Cancelado,2025-02-09,50718-119,5.0,Atendeu minhas expectativas!
+92020,Gabriel Martins,Cadeira Gamer,HyperX,1295.5,5,2,AliExpress,Cartão de Crédito,Confirmado,2025-02-19,93652-590,4.0,Produto incrível!
+92981,Isabela Andrade,Fonte 750W,AOC,1288.84,0,2,Shoppe,Cartão de Crédito,Enviado,2025-02-12,29987-962,5.0,
+96888,Gabriel Martins,Controle sem fio,HyperX,411.72,15,3,Pichau,Boleto,Confirmado,2025-02-11,62458-531,3.0,Atraso na entrega.
+26275,Rafael Mendes,Gabinete RGB,SteelSeries,1450.74,5,2,Submarino,Boleto,Enviado,2025-02-05,98742-888,3.0,Produto incrível!
+18145,Carlos Eduardo,Fonte 750W,Razer,247.45,10,1,Kabum,Cartão de Crédito,Entregue,2025-02-22,39651-863,3.0,
+69726,Juliana Souza,Headset Surround,SteelSeries,760.36,15,3,AliExpress,Paypal,Cancelado,2025-01-30,71760-562,4.0,Atraso na entrega.
+32084,Fernando Costa,Controle sem fio,Razer,362.16,5,1,Magazine Luiza,Pix,Cancelado,2025-02-03,43077-441,3.0,Atraso na entrega.
+35232,Carlos Eduardo,Headset Surround,AOC,286.85,15,1,Kabum,Pix,Confirmado,2025-02-07,92380-383,,Atendeu minhas expectativas!
+41019,Isabela Andrade,Headset Surround,Razer,1191.94,0,2,Magazine Luiza,Pix,Entregue,2025-02-15,79984-983,3.0,
+34156,Rafael Mendes,Controle sem fio,EVGA,441.11,15,1,Magazine Luiza,Pix,Cancelado,2025-01-27,66250-744,3.0,Atendeu minhas expectativas!
+97900,Gabriel Martins,Gabinete RGB,AOC,110.72,15,3,Mercado Livre,Paypal,Enviado,2025-02-20,78061-736,4.0,Produto incrível!
+82434,Rafael Mendes,Gabinete RGB,Logitech,1210.91,10,3,Pichau,Paypal,Cancelado,2025-02-06,30268-199,,Atraso na entrega.
+17315,Gabriel Martins,Teclado Mecânico,Razer,1467.51,15,1,Shoppe,Pix,Confirmado,2025-02-06,92793-329,3.0,Atraso na entrega.
+64075,Carlos Eduardo,Mousepad Extra Grande,HyperX,1246.37,10,1,Pichau,Cartão de Crédito,Enviado,2025-02-13,84339-646,3.0,
+56473,Fernando Costa,Webcam Full HD,HyperX,1405.42,5,1,Magazine Luiza,Pix,Enviado,2025-02-13,75405-169,3.0,Ótima qualidade!
+41895,Bruna Silva,Controle sem fio,Redragon,183.76,10,3,Shoppe,Pix,Cancelado,2025-01-30,53960-325,5.0,Atraso na entrega.
+63793,Rafael Mendes,Mouse Gamer RGB,Razer,509.06,5,2,Amazon,Pix,Cancelado,2025-01-28,48817-225,,Produto incrível!
+75071,Mateus Lima,Headset Surround,AOC,543.3,15,3,Magazine Luiza,Paypal,Confirmado,2025-02-20,89768-869,4.0,
+47809,Lucas Ferreira,Fonte 750W,ASUS,1408.28,5,2,Mercado Livre,Cartão de Crédito,Entregue,2025-02-10,99796-628,5.0,Ótima qualidade!
+58399,Rafael Mendes,Gabinete RGB,Razer,1241.13,5,2,Kabum,Pix,Cancelado,2025-01-25,16171-457,5.0,
+48892,Mateus Lima,Webcam Full HD,HyperX,915.27,20,2,Magazine Luiza,Boleto,Enviado,2025-02-23,95634-935,3.0,Atraso na entrega.
+76478,Fernando Costa,Fonte 750W,Razer,1261.7,10,1,Amazon,Boleto,Confirmado,2025-02-15,88100-680,3.0,
+97350,Isabela Andrade,Webcam Full HD,Redragon,1434.42,20,2,Shoppe,Cartão de Crédito,Enviado,2025-02-02,61005-542,,
+19312,Rafael Mendes,Monitor 144Hz,ASUS,726.66,10,1,Magazine Luiza,Boleto,Enviado,2025-02-07,49577-459,4.0,
+77771,Isabela Andrade,Gabinete RGB,ASUS,520.71,5,2,Mercado Livre,Pix,Enviado,2025-02-03,75093-972,4.0,
+72046,Fernando Costa,Monitor 144Hz,EVGA,663.73,5,3,AliExpress,Pix,Entregue,2025-02-15,46344-696,,Produto incrível!
+83064,Lucas Ferreira,Headset Surround,Elgato,289.56,0,1,Kabum,Paypal,Entregue,2025-01-25,50375-261,3.0,Atendeu minhas expectativas!
+17553,Ana Beatriz,Teclado Mecânico,HyperX,1359.92,10,1,Submarino,Paypal,Cancelado,2025-02-22,24425-400,3.0,Ótima qualidade!
+10745,Mateus Lima,Cadeira Gamer,EVGA,1031.72,5,3,AliExpress,Paypal,Enviado,2025-02-05,37788-802,4.0,
+91985,Mateus Lima,Fonte 750W,Logitech,1402.55,20,1,Magazine Luiza,Cartão de Crédito,Confirmado,2025-02-06,84018-108,4.0,
+26055,Rafael Mendes,Mousepad Extra Grande,HyperX,1035.33,15,1,Submarino,Boleto,Confirmado,2025-02-13,56254-453,,Produto incrível!
+43665,Isabela Andrade,Headset Surround,Redragon,1121.99,10,3,Pichau,Boleto,Cancelado,2025-02-19,35386-354,5.0,Produto incrível!
+42808,Fernando Costa,Webcam Full HD,HyperX,251.46,20,1,Kabum,Paypal,Confirmado,2025-02-08,21574-893,,Atendeu minhas expectativas!
+27686,Fernando Costa,Mouse Gamer RGB,AOC,462.49,10,1,Magazine Luiza,Cartão de Crédito,Entregue,2025-02-11,45059-697,3.0,
+54738,Rafael Mendes,Mouse Gamer RGB,SteelSeries,300.13,5,3,AliExpress,Cartão de Crédito,Confirmado,2025-01-27,48918-574,4.0,Atraso na entrega.
+72163,Mateus Lima,Mouse Gamer RGB,EVGA,603.56,10,1,Magazine Luiza,Boleto,Enviado,2025-02-19,92012-554,4.0,
+82387,Gabriel Martins,Mouse Gamer RGB,AOC,118.58,10,2,Kabum,Boleto,Cancelado,2025-02-13,68317-113,5.0,Produto incrível!
+11842,Bruna Silva,Mouse Gamer RGB,EVGA,471.35,0,3,Submarino,Paypal,Enviado,2025-02-13,33528-788,3.0,
+86392,Lucas Ferreira,Webcam Full HD,SteelSeries,921.26,0,3,Amazon,Paypal,Enviado,2025-02-06,88413-815,,Produto incrível!
+79188,Ana Beatriz,Headset Surround,SteelSeries,887.92,5,2,Magazine Luiza,Cartão de Crédito,Enviado,2025-02-07,48363-351,,Atraso na entrega.
+83080,Gabriel Martins,Monitor 144Hz,Corsair,317.43,10,1,AliExpress,Boleto,Cancelado,2025-02-05,73652-733,4.0,Atraso na entrega.
+37694,Juliana Souza,Monitor 144Hz,Elgato,125.49,5,1,Pichau,Boleto,Enviado,2025-01-31,23738-210,,Atendeu minhas expectativas!
+31979,Mateus Lima,Cadeira Gamer,SteelSeries,1148.72,5,3,Amazon,Paypal,Confirmado,2025-02-19,47575-757,5.0,Ótima qualidade!
+30638,Carlos Eduardo,Fonte 750W,AOC,292.68,5,2,Pichau,Boleto,Enviado,2025-02-13,56613-190,,Produto incrível!
+73337,Ana Beatriz,Gabinete RGB,ASUS,1124.88,0,3,Mercado Livre,Pix,Confirmado,2025-01-31,73709-485,3.0,
+94489,Juliana Souza,Webcam Full HD,Razer,709.67,5,3,AliExpress,Pix,Confirmado,2025-02-05,49050-912,,
+31546,Rafael Mendes,Cadeira Gamer,SteelSeries,990.32,10,1,Magazine Luiza,Cartão de Crédito,Confirmado,2025-02-03,87941-363,,Ótima qualidade!
+77430,Isabela Andrade,Mouse Gamer RGB,Razer,930.75,5,2,Submarino,Pix,Confirmado,2025-02-03,96955-918,4.0,
+25104,Lucas Ferreira,Mousepad Extra Grande,Elgato,1303.99,5,1,AliExpress,Pix,Enviado,2025-02-05,65998-858,3.0,Atraso na entrega.
+43244,Juliana Souza,Headset Surround,Logitech,1153.19,15,2,AliExpress,Boleto,Enviado,2025-02-05,70150-348,5.0,Produto incrível!
+40390,Isabela Andrade,Teclado Mecânico,Elgato,1174.61,10,1,Amazon,Paypal,Cancelado,2025-02-09,68394-529,4.0,Atendeu minhas expectativas!
+86315,Carlos Eduardo,Mouse Gamer RGB,SteelSeries,1194.07,0,2,Kabum,Boleto,Entregue,2025-02-18,98122-784,,Atraso na entrega.
+93041,Gabriel Martins,Cadeira Gamer,Redragon,656.49,5,1,Shoppe,Cartão de Crédito,Enviado,2025-01-31,79526-710,3.0,Atendeu minhas expectativas!
+10891,Lucas Ferreira,Teclado Mecânico,SteelSeries,1289.11,10,3,Kabum,Boleto,Confirmado,2025-02-17,35685-313,5.0,Ótima qualidade!
+69462,Lucas Ferreira,Teclado Mecânico,Logitech,327.83,5,2,AliExpress,Pix,Entregue,2025-02-18,33251-405,3.0,Atraso na entrega.
+72117,Lucas Ferreira,Mousepad Extra Grande,SteelSeries,1174.3,10,2,Shoppe,Boleto,Confirmado,2025-02-18,23558-154,3.0,Atendeu minhas expectativas!
+89767,Rafael Mendes,Webcam Full HD,AOC,1169.56,0,3,Amazon,Pix,Enviado,2025-02-21,72031-971,4.0,
+15065,Rafael Mendes,Webcam Full HD,EVGA,982.94,15,2,AliExpress,Cartão de Crédito,Entregue,2025-02-12,66511-257,,Atendeu minhas expectativas!
+56414,Ana Beatriz,Fonte 750W,ASUS,869.78,10,1,Amazon,Boleto,Cancelado,2025-02-20,86427-813,3.0,Atendeu minhas expectativas!
+59394,Lucas Ferreira,Monitor 144Hz,SteelSeries,514.95,5,1,Pichau,Cartão de Crédito,Cancelado,2025-01-30,96584-718,3.0,Produto incrível!
+91183,Gabriel Martins,Mousepad Extra Grande,AOC,277.16,5,2,Kabum,Cartão de Crédito,Confirmado,2025-02-22,58662-769,5.0,Atraso na entrega.
+69413,Ana Beatriz,Fonte 750W,AOC,1340.38,10,3,Mercado Livre,Paypal,Entregue,2025-02-22,17789-286,,
+15837,Mateus Lima,Gabinete RGB,Elgato,612.22,5,2,AliExpress,Cartão de Crédito,Enviado,2025-02-17,70663-535,5.0,Produto incrível!
+42914,Isabela Andrade,Teclado Mecânico,EVGA,419.01,0,2,AliExpress,Cartão de Crédito,Entregue,2025-01-30,33741-950,5.0,Produto incrível!
+49743,Gabriel Martins,Headset Surround,Razer,929.95,0,2,Mercado Livre,Paypal,Enviado,2025-02-07,93602-757,3.0,Atraso na entrega.
+24909,Fernando Costa,Mousepad Extra Grande,Redragon,686.46,20,3,Mercado Livre,Boleto,Enviado,2025-02-08,68203-779,3.0,Atraso na entrega.
+50491,Fernando Costa,Controle sem fio,Corsair,468.9,5,1,Mercado Livre,Paypal,Confirmado,2025-02-19,55269-244,,Ótima qualidade!
+57713,Mateus Lima,Monitor 144Hz,Logitech,101.28,5,1,AliExpress,Boleto,Enviado,2025-02-23,17155-124,3.0,
+67950,Gabriel Martins,Mousepad Extra Grande,ASUS,768.03,5,2,Magazine Luiza,Pix,Confirmado,2025-02-13,10931-386,5.0,Atraso na entrega.
+73426,Bruna Silva,Cadeira Gamer,SteelSeries,1139.18,20,2,Magazine Luiza,Pix,Confirmado,2025-02-14,86685-708,5.0,Atraso na entrega.
+88781,Rafael Mendes,Fonte 750W,HyperX,588.53,5,2,Kabum,Pix,Entregue,2025-02-04,19707-574,4.0,Atendeu minhas expectativas!
+97477,Fernando Costa,Mouse Gamer RGB,AOC,1044.32,0,2,AliExpress,Boleto,Cancelado,2025-02-17,49336-487,3.0,Ótima qualidade!
+25415,Ana Beatriz,Webcam Full HD,Redragon,844.88,15,3,AliExpress,Pix,Confirmado,2025-02-01,59198-788,5.0,
+33269,Ana Beatriz,Gabinete RGB,AOC,185.1,5,1,Shoppe,Cartão de Crédito,Enviado,2025-01-28,68617-798,4.0,Produto incrível!
+52279,Lucas Ferreira,Mouse Gamer RGB,Logitech,579.82,10,1,Shoppe,Cartão de Crédito,Confirmado,2025-02-21,95233-590,4.0,
+31561,Lucas Ferreira,Teclado Mecânico,AOC,772.36,15,2,Mercado Livre,Boleto,Confirmado,2025-02-21,61189-167,5.0,Atraso na entrega.
+82604,Bruna Silva,Teclado Mecânico,Corsair,1227.58,20,3,Kabum,Paypal,Entregue,2025-02-22,39786-135,3.0,Produto incrível!
+59066,Juliana Souza,Cadeira Gamer,SteelSeries,618.67,20,2,AliExpress,Cartão de Crédito,Enviado,2025-02-10,98949-629,3.0,Atendeu minhas expectativas!
+98925,Fernando Costa,Teclado Mecânico,Elgato,503.48,10,1,Kabum,Pix,Cancelado,2025-01-31,22734-366,3.0,Ótima qualidade!
+70678,Gabriel Martins,Fonte 750W,HyperX,206.7,15,3,Mercado Livre,Paypal,Entregue,2025-02-23,11346-415,,Ótima qualidade!
+12851,Bruna Silva,Cadeira Gamer,Corsair,1158.97,15,2,Pichau,Cartão de Crédito,Cancelado,2025-02-16,97831-470,3.0,Atraso na entrega.
+47951,Ana Beatriz,Mouse Gamer RGB,AOC,448.1,10,3,Mercado Livre,Pix,Entregue,2025-02-11,89579-985,5.0,Atendeu minhas expectativas!
+58213,Bruna Silva,Webcam Full HD,AOC,1449.09,0,3,Submarino,Cartão de Crédito,Cancelado,2025-02-03,69838-804,,
+92790,Lucas Ferreira,Webcam Full HD,Logitech,639.2,20,3,Magazine Luiza,Paypal,Cancelado,2025-01-28,29824-600,5.0,Atraso na entrega.
+54625,Carlos Eduardo,Cadeira Gamer,SteelSeries,909.78,20,2,Shoppe,Cartão de Crédito,Confirmado,2025-02-19,30278-534,5.0,Ótima qualidade!
+45584,Gabriel Martins,Fonte 750W,SteelSeries,320.67,10,3,Pichau,Boleto,Confirmado,2025-02-08,71089-267,5.0,Atraso na entrega.
+13453,Fernando Costa,Headset Surround,EVGA,213.38,0,3,Shoppe,Pix,Confirmado,2025-02-20,91113-379,,Atraso na entrega.
+57289,Fernando Costa,Monitor 144Hz,SteelSeries,213.69,20,2,Shoppe,Cartão de Crédito,Enviado,2025-02-11,42538-141,1,Entrega demorou demais.
+94231,Carlos Eduardo,Fonte 750W,Corsair,1189.13,20,3,Shoppe,Cartão de Crédito,Entregue,2025-02-06,88687-526,1,Produto veio com defeito.
+70823,Rafael Mendes,Mouse Gamer RGB,SteelSeries,818.96,15,1,AliExpress,Cartão de Crédito,Confirmado,2025-02-09,86326-869,2,Atendimento ruim.
+75125,Lucas Ferreira,Webcam Full HD,Elgato,1470.75,10,1,Submarino,Cartão de Crédito,Cancelado,2025-02-08,63890-997,1,Produto veio com defeito.
+88388,Isabela Andrade,Fonte 750W,Corsair,195.42,15,3,Mercado Livre,Cartão de Crédito,Confirmado,2025-02-21,45208-603,3,Não recomendo.
+91435,Gabriel Martins,Mouse Gamer RGB,SteelSeries,670.26,15,1,Amazon,Boleto,Enviado,2025-02-06,69984-346,3,Produto veio com defeito.
+38055,Rafael Mendes,Webcam Full HD,Razer,1398.23,20,2,Mercado Livre,Pix,Cancelado,2025-02-02,97173-622,1,Entrega demorou demais.
+39108,Carlos Eduardo,Mouse Gamer RGB,Razer,310.93,10,2,Kabum,Pix,Cancelado,2025-02-09,75529-891,3,Qualidade inferior ao esperado.
+61257,Carlos Eduardo,Monitor 144Hz,SteelSeries,1085.46,20,3,Pichau,Paypal,Enviado,2025-02-01,87187-534,1,Qualidade inferior ao esperado.
+45360,Bruna Silva,Mousepad Extra Grande,HyperX,1199.91,20,2,Mercado Livre,Cartão de Crédito,Confirmado,2025-01-27,85768-610,1,Atendimento ruim.
+34107,Bruna Silva,Webcam Full HD,AOC,516.06,10,1,Mercado Livre,Cartão de Crédito,Confirmado,2025-01-31,70119-297,3,Qualidade inferior ao esperado.
+68473,Bruna Silva,Monitor 144Hz,SteelSeries,1385.31,15,3,AliExpress,Paypal,Enviado,2025-02-19,53239-465,1,Atendimento ruim.
+62493,Ana Beatriz,Controle sem fio,Logitech,1404.94,15,3,Pichau,Cartão de Crédito,Entregue,2025-02-01,79929-774,3,Entrega demorou demais.
+79378,Gabriel Martins,Mousepad Extra Grande,Logitech,1424.52,10,2,Mercado Livre,Cartão de Crédito,Entregue,2025-02-18,54672-529,1,Não recomendo.
+66266,Fernando Costa,Monitor 144Hz,Redragon,1051.41,20,3,Submarino,Cartão de Crédito,Entregue,2025-02-10,89080-652,2,Atendimento ruim.
+25758,Carlos Eduardo,Controle sem fio,Logitech,526.72,15,1,AliExpress,Pix,Cancelado,2025-01-30,96469-853,3,Entrega demorou demais.
+87506,Gabriel Martins,Headset Surround,Elgato,824.16,20,1,Amazon,Cartão de Crédito,Entregue,2025-02-14,21009-684,3,Entrega demorou demais.
+13660,Carlos Eduardo,Fonte 750W,Redragon,453.69,5,1,Mercado Livre,Pix,Confirmado,2025-02-11,79165-999,3,Qualidade inferior ao esperado.
+75404,Mateus Lima,Cadeira Gamer,AOC,1133.28,15,2,Submarino,Cartão de Crédito,Enviado,2025-02-16,71927-974,2,Entrega demorou demais.
+74656,Ana Beatriz,Monitor 144Hz,HyperX,1352.77,10,2,Amazon,Boleto,Confirmado,2025-01-25,89278-490,1,Produto veio com defeito.
+12116,Ana Beatriz,Teclado Mecânico,HyperX,1025.22,20,2,Pichau,Pix,Confirmado,2025-01-29,31681-777,2,Atendimento ruim.
+59445,Ana Beatriz,Headset Surround,EVGA,502.17,20,3,Mercado Livre,Cartão de Crédito,Confirmado,2025-01-26,90774-591,2,Produto veio com defeito.
+79401,Bruna Silva,Fonte 750W,Elgato,470.21,10,2,Amazon,Cartão de Crédito,Enviado,2025-02-11,57351-372,3,Qualidade inferior ao esperado.
+55008,Mateus Lima,Headset Surround,Razer,1058.7,20,3,Pichau,Cartão de Crédito,Cancelado,2025-02-20,24126-919,3,Não recomendo.
+77058,Gabriel Martins,Mouse Gamer RGB,Elgato,1126.45,15,1,Amazon,Cartão de Crédito,Enviado,2025-02-02,74304-600,1,Atendimento ruim.
+46409,Gabriel Martins,Headset Surround,Razer,658.09,15,2,Mercado Livre,Boleto,Cancelado,2025-02-17,19733-367,1,Entrega demorou demais.
+88129,Bruna Silva,Cadeira Gamer,Razer,1033.17,10,3,Submarino,Pix,Enviado,2025-02-14,39559-692,3,Não recomendo.
+97291,Juliana Souza,Monitor 144Hz,Logitech,290.34,20,1,Kabum,Boleto,Enviado,2025-02-21,25367-590,1,Não recomendo.
+12676,Fernando Costa,Fonte 750W,EVGA,978.34,15,1,Magazine Luiza,Cartão de Crédito,Confirmado,2025-02-21,32877-471,3,Qualidade inferior ao esperado.
+56914,Rafael Mendes,Monitor 144Hz,Redragon,228.71,20,1,AliExpress,Paypal,Confirmado,2025-02-11,21038-902,1,Produto veio com defeito.
+24026,Lucas Ferreira,Fonte 750W,Corsair,747.53,10,1,Submarino,Boleto,Entregue,2025-01-28,92674-572,1,Não recomendo.
+23801,Juliana Souza,Headset Surround,SteelSeries,585.27,10,3,Kabum,Boleto,Cancelado,2025-01-29,32221-896,2,Atendimento ruim.
+31332,Bruna Silva,Teclado Mecânico,Redragon,490.74,15,3,AliExpress,Paypal,Cancelado,2025-02-13,47421-322,1,Qualidade inferior ao esperado.
+14410,Lucas Ferreira,Mouse Gamer RGB,EVGA,774.97,15,3,Pichau,Pix,Entregue,2025-02-12,14770-595,1,Entrega demorou demais.
+61229,Fernando Costa,Headset Surround,EVGA,1020.02,10,1,Shoppe,Pix,Cancelado,2025-02-19,48040-837,2,Atendimento ruim.
+78268,Ana Beatriz,Monitor 144Hz,Razer,1033.96,20,2,Pichau,Boleto,Cancelado,2025-02-22,88434-952,1,Atendimento ruim.
+39658,Bruna Silva,Mouse Gamer RGB,EVGA,1052.56,20,2,Amazon,Pix,Cancelado,2025-02-21,81276-272,1,Produto veio com defeito.
+34258,Fernando Costa,Mouse Gamer RGB,Corsair,754.88,10,3,Amazon,Boleto,Enviado,2025-02-05,41319-628,3,Qualidade inferior ao esperado.
+76704,Juliana Souza,Controle sem fio,Redragon,310.43,0,1,Submarino,Cartão de Crédito,Entregue,2025-02-13,19510-450,3,Atendimento ruim.
+40239,Juliana Souza,Mouse Gamer RGB,Corsair,431.42,5,1,Mercado Livre,Paypal,Confirmado,2025-02-19,99805-695,3,Entrega demorou demais.
+83470,Isabela Andrade,Cadeira Gamer,Razer,455.46,10,1,Mercado Livre,Pix,Entregue,2025-02-10,60531-687,1,Não recomendo.
+77119,Mateus Lima,Cadeira Gamer,Redragon,1407.09,20,1,Shoppe,Paypal,Enviado,2025-02-09,17001-908,3,Qualidade inferior ao esperado.
+34038,Fernando Costa,Controle sem fio,HyperX,745.42,5,3,Mercado Livre,Paypal,Cancelado,2025-02-17,50138-841,2,Qualidade inferior ao esperado.
+61343,Bruna Silva,Webcam Full HD,Corsair,793.64,5,2,AliExpress,Pix,Cancelado,2025-01-27,78165-489,2,Produto veio com defeito.
+27688,Mateus Lima,Fonte 750W,Redragon,1341.23,5,3,Kabum,Pix,Cancelado,2025-02-17,36023-280,1,Atendimento ruim.
+38570,Fernando Costa,Headset Surround,Corsair,874.58,20,1,Kabum,Pix,Enviado,2025-02-03,75189-931,2,Atendimento ruim.
+28611,Ana Beatriz,Mousepad Extra Grande,Logitech,102.38,0,1,Shoppe,Boleto,Confirmado,2025-02-15,11369-616,2,Atendimento ruim.
+30247,Gabriel Martins,Controle sem fio,ASUS,1177.56,0,3,Pichau,Pix,Cancelado,2025-02-12,75658-930,3,Não recomendo.
+89946,Carlos Eduardo,Mouse Gamer RGB,Elgato,1321.87,5,1,Mercado Livre,Pix,Cancelado,2025-02-23,43652-542,1,Entrega demorou demais.
+51420,Rafael Mendes,Controle sem fio,Redragon,767.41,5,2,Mercado Livre,Cartão de Crédito,Confirmado,2025-02-10,52741-499,2,Produto veio com defeito.
+46001,Bruna Silva,Mouse Gamer RGB,HyperX,808.1,10,1,AliExpress,Boleto,Entregue,2025-02-16,12688-293,2,Produto veio com defeito.
+65761,Gabriel Martins,Controle sem fio,Razer,1210.37,0,3,Kabum,Pix,Confirmado,2025-02-12,92841-163,3,Produto veio com defeito.
+11234,Mateus Lima,Monitor 144Hz,Corsair,312.48,10,3,Mercado Livre,Cartão de Crédito,Enviado,2025-02-06,43543-703,2,Produto veio com defeito.
+16433,Rafael Mendes,Cadeira Gamer,Razer,1177.1,20,3,Submarino,Paypal,Entregue,2025-01-29,82368-622,3,Qualidade inferior ao esperado.
+92209,Isabela Andrade,Mouse Gamer RGB,Elgato,315.66,0,1,Kabum,Cartão de Crédito,Entregue,2025-02-09,48964-494,2,Qualidade inferior ao esperado.
+62365,Isabela Andrade,Mousepad Extra Grande,AOC,1012.09,5,1,Pichau,Boleto,Enviado,2025-02-06,66096-750,2,Entrega demorou demais.
+50433,Ana Beatriz,Webcam Full HD,Logitech,900.37,20,2,Mercado Livre,Boleto,Cancelado,2025-02-06,75808-452,3,Entrega demorou demais.
+92674,Lucas Ferreira,Fonte 750W,EVGA,582.34,5,1,Shoppe,Paypal,Confirmado,2025-02-12,72261-320,1,Qualidade inferior ao esperado.
+73909,Mateus Lima,Teclado Mecânico,Redragon,1181.16,5,1,AliExpress,Boleto,Entregue,2025-02-09,46957-756,1,Não recomendo.
+60745,Lucas Ferreira,Monitor 144Hz,HyperX,1407.59,0,3,Mercado Livre,Boleto,Cancelado,2025-02-12,92994-608,1,Atendimento ruim.
+73948,Fernando Costa,Teclado Mecânico,ASUS,1249.87,0,3,Magazine Luiza,Boleto,Confirmado,2025-02-21,87051-100,2,Produto veio com defeito.
+49272,Ana Beatriz,Cadeira Gamer,ASUS,330.72,0,1,Kabum,Boleto,Cancelado,2025-02-09,61260-232,3,Produto veio com defeito.
+58171,Carlos Eduardo,Mouse Gamer RGB,EVGA,235.94,10,1,Mercado Livre,Paypal,Confirmado,2025-01-26,62424-215,1,Produto veio com defeito.
+41957,Gabriel Martins,Cadeira Gamer,HyperX,382.16,0,1,AliExpress,Paypal,Enviado,2025-02-09,14676-520,1,Entrega demorou demais.
+81266,Rafael Mendes,Mousepad Extra Grande,HyperX,1495.2,5,3,Shoppe,Cartão de Crédito,Enviado,2025-02-02,65003-772,2,Produto veio com defeito.
+97436,Lucas Ferreira,Webcam Full HD,EVGA,449.05,20,3,Pichau,Cartão de Crédito,Confirmado,2025-02-08,62299-844,1,Entrega demorou demais.
+28093,Fernando Costa,Headset Surround,AOC,1303.53,5,3,Kabum,Cartão de Crédito,Entregue,2025-02-11,44782-776,3,Não recomendo.
+91273,Bruna Silva,Gabinete RGB,EVGA,521.6,5,1,Amazon,Paypal,Confirmado,2025-02-15,37426-614,3,Produto veio com defeito.
+94322,Mateus Lima,Headset Surround,Corsair,217.16,5,2,Magazine Luiza,Paypal,Confirmado,2025-02-06,88820-434,1,Não recomendo.
+81214,Carlos Eduardo,Fonte 750W,SteelSeries,851.54,0,1,Submarino,Paypal,Cancelado,2025-02-07,96540-389,2,Qualidade inferior ao esperado.
+42117,Mateus Lima,Mouse Gamer RGB,EVGA,246.44,20,1,AliExpress,Pix,Entregue,2025-02-04,37608-382,2,Qualidade inferior ao esperado.
+59247,Carlos Eduardo,Monitor 144Hz,HyperX,672.09,15,2,AliExpress,Paypal,Entregue,2025-02-20,38036-243,3,Atendimento ruim.
+43304,Gabriel Martins,Mousepad Extra Grande,ASUS,195.79,5,2,Amazon,Boleto,Entregue,2025-02-13,71558-802,1,Não recomendo.
+12355,Rafael Mendes,Cadeira Gamer,ASUS,479.81,15,3,Pichau,Boleto,Enviado,2025-02-20,81750-883,3,Qualidade inferior ao esperado.
+87262,Rafael Mendes,Cadeira Gamer,Logitech,411.84,5,1,Amazon,Cartão de Crédito,Confirmado,2025-02-23,39266-666,2,Produto veio com defeito.
+97995,Lucas Ferreira,Controle sem fio,Corsair,969.1,5,1,Submarino,Paypal,Confirmado,2025-02-13,65652-354,1,Produto veio com defeito.
+73168,Mateus Lima,Fonte 750W,AOC,414.41,10,1,AliExpress,Boleto,Entregue,2025-02-03,73319-705,1,Não recomendo.
+50096,Fernando Costa,Mousepad Extra Grande,SteelSeries,1115.77,0,1,Shoppe,Paypal,Confirmado,2025-02-01,59116-706,2,Atendimento ruim.
+22942,Juliana Souza,Mouse Gamer RGB,Elgato,214.25,5,1,Amazon,Paypal,Confirmado,2025-02-07,85198-290,1,Entrega demorou demais.
+27941,Bruna Silva,Headset Surround,EVGA,1372.15,20,3,Kabum,Paypal,Cancelado,2025-01-29,98785-714,1,Qualidade inferior ao esperado.
+25180,Juliana Souza,Mousepad Extra Grande,AOC,648.99,5,1,Submarino,Paypal,Cancelado,2025-02-07,17683-613,3,Entrega demorou demais.
+13846,Juliana Souza,Mouse Gamer RGB,EVGA,1104.46,5,3,Submarino,Paypal,Entregue,2025-01-31,17470-528,1,Não recomendo.
+62320,Isabela Andrade,Fonte 750W,Redragon,606.38,15,2,AliExpress,Cartão de Crédito,Enviado,2025-02-09,48493-759,1,Qualidade inferior ao esperado.
+44096,Gabriel Martins,Controle sem fio,ASUS,488.79,15,1,Kabum,Cartão de Crédito,Cancelado,2025-02-05,94113-448,2,Não recomendo.
+24473,Fernando Costa,Mousepad Extra Grande,AOC,526.19,20,3,AliExpress,Pix,Cancelado,2025-01-31,11867-489,2,Atendimento ruim.
+78767,Gabriel Martins,Teclado Mecânico,Logitech,367.35,10,1,AliExpress,Cartão de Crédito,Enviado,2025-02-01,52696-926,2,Atendimento ruim.
+49005,Bruna Silva,Webcam Full HD,HyperX,110.27,5,3,Kabum,Pix,Confirmado,2025-02-03,62439-339,3,Produto veio com defeito.
+45008,Bruna Silva,Headset Surround,SteelSeries,450.26,15,2,Shoppe,Boleto,Cancelado,2025-02-13,21275-235,3,Atendimento ruim.
+24164,Lucas Ferreira,Fonte 750W,HyperX,1236.23,20,3,Amazon,Boleto,Entregue,2025-01-29,75767-846,2,Não recomendo.
+66983,Bruna Silva,Webcam Full HD,Redragon,834.0,5,1,Magazine Luiza,Pix,Enviado,2025-02-20,55354-532,3,Qualidade inferior ao esperado.
+58333,Bruna Silva,Cadeira Gamer,Razer,1292.08,15,3,Amazon,Cartão de Crédito,Confirmado,2025-02-17,89845-359,3,Qualidade inferior ao esperado.
+92029,Bruna Silva,Headset Surround,EVGA,671.82,5,3,Submarino,Cartão de Crédito,Confirmado,2025-01-26,10872-633,2,Qualidade inferior ao esperado.
+47436,Isabela Andrade,Gabinete RGB,Corsair,966.12,20,1,Submarino,Paypal,Confirmado,2025-02-16,63793-341,2,Atendimento ruim.
+75734,Bruna Silva,Gabinete RGB,Elgato,1300.48,20,2,Amazon,Paypal,Confirmado,2025-02-23,20134-897,2,Qualidade inferior ao esperado.
+39863,Juliana Souza,Headset Surround,EVGA,934.54,15,2,Kabum,Boleto,Entregue,2025-02-14,99569-835,2,Não recomendo.
+11999,Gabriel Martins,Mouse Gamer RGB,SteelSeries,1138.63,0,3,AliExpress,Cartão de Crédito,Confirmado,2025-01-30,47652-257,1,Não recomendo.
+65079,Carlos Eduardo,Webcam Full HD,Logitech,652.23,0,3,Mercado Livre,Cartão de Crédito,Confirmado,2025-01-27,17251-113,1,Entrega demorou demais.
+31817,Rafael Mendes,Mousepad Extra Grande,Elgato,251.6,0,1,AliExpress,Paypal,Enviado,2025-02-01,31942-906,3,Atendimento ruim.
+15945,Carlos Eduardo,Cadeira Gamer,EVGA,519.78,20,1,Magazine Luiza,Pix,Enviado,2025-02-22,99348-265,3,Qualidade inferior ao esperado.
+52528,Lucas Ferreira,Webcam Full HD,Corsair,257.44,10,3,Magazine Luiza,Boleto,Cancelado,2025-02-19,53643-217,3,Produto veio com defeito.

@@ -1,0 +1,30 @@
+﻿Pessoas dentro de cada faixa de impostos;;;;Quantidade de pessoas por fonte de renda;;
+;;;;;;
+;;;;;;
+Faixa de Imposto;Quantidade;;;Fonte_de_Renda;Faixa_Imposto;Quantidade
+7,50%;58;;;Aposentado;15%;15
+15%;61;;;Aposentado;22,50%;17
+22,50%;61;;;Aposentado;Isento;10
+27,50%;58;;;Aposentado;7,50%;8
+Isento;60;;;Aposentado;27,50%;15
+TOTAL;298;;;Autônomo;22,50%;5
+;;;;Autônomo;27,50%;10
+;;;;Autônomo;Isento;12
+;;;;Autônomo;15%;11
+;;;;Autônomo;7,50%;11
+;;;;Empregado CLT;Isento;13
+;;;;Empregado CLT;27,50%;11
+;;;;Empregado CLT;22,50%;11
+;;;;Empregado CLT;7,50%;14
+;;;;Empregado CLT;15%;15
+;;;;Empresário;7,50%;15
+;;;;Empresário;22,50%;17
+;;;;Empresário;15%;14
+;;;;Empresário;Isento;16
+;;;;Empresário;27,50%;11
+;;;;Investidor;27,50%;11
+;;;;Investidor;Isento;10
+;;;;Investidor;7,50%;10
+;;;;Investidor;15%;7
+;;;;Investidor;22,50%;11
+;;;;TOTAL;;300
