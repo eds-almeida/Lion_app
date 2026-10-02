@@ -1,3 +1,0 @@
-# CSVs sao exportacoes brutas: preservar bytes (UTF-8 BOM + CRLF) sem conversao de fim de linha
-*.csv -text
-*.xlsx binary
